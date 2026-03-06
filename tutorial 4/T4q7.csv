@@ -1,0 +1,27 @@
+maxX=1000.0,maxY=1000.0,maxZ=1000.0,,,,
+Patient_ID,Position_X,Position_Y,Cluster,Gender, Year of Birth,Year of Dead
+Person 1,627,705,2,Female,2000,
+Person 2,808,643,1,Male,2002,2004
+Person 3,624,627,1,Male,2002,
+Person 4,423,396,1,Female,2004,
+Person 5,775,181,0,Female,2005,
+Person 6,433,731,1,Female,2000,2005
+Person 7,635,580,2,Male,2002,
+Person 8,884,262,0,Female,2003,
+Person 9,334,190,0,Male,2005,
+Person 10,727,524,1,Female,2003,
+Person 11,503,684,0,Male,2001,2008
+Person 12,284,246,0,Male,2001,
+Person 13,189,223,0,Male,2000,
+Person 14,196,220,0,Female,2000,
+Person 15,707,559,0,Female,2001,
+Person 16,299,657,2,Male,2000,
+Person 17,400,755,0,Male,2005,
+Person 18,0,895,1,Male,2003,2008
+Person 19,783,631,1,Female,2003,
+Person 20,674,589,1,Female,2003,
+Person 21,828,263,1,Male,2002,
+Person 22,557,23,1,Male,2004,
+Person 23,444,627,2,Female,2004,2006
+Person 24,50,50,0,Male,1999,2006
+Person 25,950,950,0,Female,2006,
